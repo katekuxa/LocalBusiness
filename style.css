@@ -133,17 +133,17 @@
 input.fullNameRequest,
 input.emailAddressRequest,
 input.phoneNumberRequest {
-    background-image: url(/img/icons/contact.png);
+    background-image: url(img/icons/contact.png);
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 input.emailAddressRequest {
-    background-image: url(/img/icons/konvert.png);
+    background-image: url(img/icons/konvert.png);
 }
 
 input.phoneNumberRequest {
-    background-image: url(/img/icons/call.png);
+    background-image: url(img/icons/call.png);
 }
 
 /*boostUpWhite*/
@@ -839,14 +839,14 @@ button.aboutUsReadMore {
 
 .newsLetterFormName {
     width: 250px;
-    background-image: url(/img/icons/contact.png);
+    background-image: url(img/icons/contact.png);
     background-repeat: no-repeat;
     background-position: 8px;
 }
 
 .newsLetterFormEmail {
     width: 300px;
-    background-image: url(/img/icons/konvert.png);
+    background-image: url(img/icons/konvert.png);
     background-repeat: no-repeat;
     background-position: 8px;
 }
@@ -865,7 +865,7 @@ button.aboutUsReadMore {
 }
 
 .newsLetterMap {
-    background-image: url(/img/Map.png);
+    background-image: url(img/Map.png);
     padding-top: 50px;
     padding-bottom: 100px;
 }
